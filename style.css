@@ -23,7 +23,7 @@ h1 {
 }
 
 h1 {
-  text-align: centered
+  text-align: center
 }
 
 h3 {
@@ -56,4 +56,20 @@ h5 {
 
 h5 {
   color: gray
+}
+
+a {
+  color: Aquamarine
+}
+
+a {
+  font-size: 16px
+}
+
+html {
+  background-color: black
+}
+
+html {
+  text-align: center
 }
